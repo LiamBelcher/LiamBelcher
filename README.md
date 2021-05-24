@@ -1,8 +1,8 @@
-- 👋 Hi, I’m https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g subscribe
-- 👀 I’m interested in https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g subscribe
-- 🌱 I’m currently learning https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g subscribe
-- 💞️ I’m looking to collaborate on https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g subscribe
-- 📫 How to reach me https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g subscribe
+- 👋 Hi, I’m liam
+- 👀 I’m interested in idk yt
+- 🌱 I’m currently learning code with python but i wanna lern lua
+- 💞️ I’m looking to collaborate on roblox
+- 📫 How to reach me https://www.youtube.com/channel/UCjgYIH9O-4xUvxUJC8Vfy8g 
 
 <!---
 LiamBelcher/LiamBelcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
